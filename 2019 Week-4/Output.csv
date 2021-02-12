@@ -1,0 +1,65 @@
+﻿DATE,OPPONENT,Win/Loss,W-L,HI Assists Player Name,HI ASSISTS,HI Rebounds Player Name,HI Rebounds,HI Point Player Name,HI POINTS
+18-10-2019,Minnesota,W,1-0,Gasol,6,Aldridge,19,DeRozan,28
+21-10-2019,Portland,L,1-1,DeRozan,9,Aldridge,8,DeRozan,28
+23-10-2019,Los Angeles,W,2-1,DeRozan,14,Cunningham,12,Aldridge,37
+25-10-2019,Indiana,L,2-2,DeRozan,4,Aldridge,13,DeRozan,18
+28-10-2019,Los Angeles,W,3-2,DeRozan,8,DeRozan,12,DeRozan,30
+30-10-2019,Dallas,W,4-2,DeRozan,9,Gay,11,DeRozan,34
+01-11-2019,Phoenix,W,5-2,Forbes,7,Gasol,9,DeRozan,25
+04-11-2019,New Orleans,W,6-2,Mills,7,Aldridge,12,DeRozan,26
+05-11-2019,Orlando,L,6-3,DeRozan,5,Gasol,8,DeRozan,25
+08-11-2019,Miami,L,6-4,DeRozan,8,Aldridge,16,Mills,20
+11-11-2019,Houston,W,7-4,White,8,DeRozan,11,Aldridge,27
+13-11-2019,Sacramento,L,7-5,DeRozan,8,Aldridge,18,DeRozan,23
+15-11-2019,Phoenix,L,7-6,DeRozan,4,Aldridge,12,DeRozan,24
+16-11-2019,Los Angeles,L,7-7,DeRozan,5,Aldridge,16,DeRozan,34
+19-11-2019,Golden State,W,8-7,DeRozan,9,Aldridge,18,Aldridge,24
+20-11-2019,New Orleans,L,8-8,DeRozan,5,Aldridge,10,DeRozan,21
+22-11-2019,Memphis,L,8-9,DeRozan,5,Aldridge,11,DeRozan,24
+24-11-2019,Indiana,W,9-9,Gay,7,Aldridge,14,Aldridge,33
+25-11-2019,Milwaukee,L,9-10,DeRozan,7,Cunningham,10,DeRozan,34
+27-11-2019,Chicago,W,10-10,Forbes,6,DeRozan,8,DeRozan,21
+29-11-2019,Minnesota,L,10-11,White,4,Aldridge,9,Poeltl,14
+01-12-2019,Houston,L,10-12,White,9,Gay,8,Aldridge,20
+03-12-2019,Portland,W,11-12,DeRozan,6,DeRozan,8,DeRozan,36
+05-12-2019,Utah,L,11-13,DeRozan,7,Poeltl,7,Poeltl,20
+06-12-2019,Los Angeles,L,11-14,White,5,Aldridge,9,DeRozan,32
+08-12-2019,Los Angeles,W,12-14,DeRozan,9,DeRozan,8,DeRozan,36
+10-12-2019,Utah,W,13-14,DeRozan,8,Gay,15,DeRozan,26
+12-12-2019,Phoenix,W,14-14,DeRozan,9,Forbes,11,Forbes,24
+14-12-2019,Los Angeles,W,15-14,DeRozan,7,Gay,6,Aldridge,27
+16-12-2019,Chicago,L,15-15,Gay,4,Aldridge,12,Aldridge,29
+18-12-2019,Philadelphia,W,16-15,DeRozan,7,Aldridge,10,Gay,21
+20-12-2019,Orlando,W,17-15,DeRozan,6,DeRozan,7,Aldridge,20
+22-12-2019,Minnesota,W,18-15,DeRozan,8,Aldridge,9,Forbes,22
+23-12-2019,Houston,L,18-16,DeRozan,8,Gay,8,DeRozan,28
+27-12-2019,Denver,W,19-16,DeRozan,5,Poeltl,11,DeRozan,30
+29-12-2019,Denver,L,19-17,DeRozan,5,Aldridge,7,Aldridge,24
+30-12-2019,Los Angeles,W,20-17,Forbes,7,DeRozan,13,Aldridge,38
+01-01-2019,Boston,W,21-17,DeRozan,10,Aldridge,9,Aldridge,32
+04-01-2019,Toronto,W,22-17,DeRozan,11,DeRozan,14,Aldridge,23
+06-01-2019,Memphis,W,23-17,Aldridge,7,DeRozan,9,White,19
+08-01-2019,Detroit,W,24-17,DeRozan,9,DeRozan,7,DeRozan,26
+10-01-2019,Memphis,L,24-18,DeRozan,4,Gasol,12,Forbes,14
+11-01-2019,Oklahoma City,W,25-18,DeRozan,11,Aldridge,9,Aldridge,56
+13-01-2019,Oklahoma City,L,25-19,DeRozan,4,Poeltl,10,Belinelli,24
+15-01-2019,Charlotte,L,25-20,White,7,Aldridge,10,Aldridge,28
+17-01-2019,Dallas,W,26-20,DeRozan,9,Poeltl,7,Belinelli,17
+19-01-2019,Minnesota,W,27-20,Mills,8,Aldridge,9,Aldridge,25
+21-01-2019,Los Angeles,L,27-21,White,4,Aldridge,14,Aldridge,30
+24-01-2019,Philadelphia,L,27-22,Aldridge,6,DeRozan,9,DeRozan,26
+26-01-2019,New Orleans,W,28-22,Mills,5,Aldridge,12,Aldridge,28
+28-01-2019,Washington,W,29-22,Mills,7,Aldridge,9,Aldridge,30
+30-01-2019,Phoenix,W,30-22,Bertans,5,Aldridge,14,Aldridge,29
+01-02-2019,Brooklyn,W,31-22,White,6,Aldridge,13,White,26
+03-02-2019,New Orleans,W,32-22,DeRozan,5,Aldridge,14,Aldridge,25
+05-02-2019,Sacramento,L,32-23,DeRozan,4,Aldridge,9,DeRozan,24
+07-02-2019,Golden State,L,32-24,Poeltl,6,Cunningham,5,Mills,16
+08-02-2019,Portland,L,32-25,Mills,8,Aldridge,10,DeRozan,35
+09-02-2019,Utah,L,32-26,DeRozan,5,Aldridge,10,DeRozan,23
+13-02-2019,Memphis,W,33-26,Gay,8,Gay,12,Aldridge,22
+23-02-2019,Toronto,L,33-27,DeRozan,8,Gay,10,DeRozan,23
+25-02-2019,New York,L,33-28,DeRozan,4,DeRozan,9,DeRozan,32
+26-02-2019,Brooklyn,L,33-29,White,4,Aldridge,10,Aldridge,26
+28-02-2019,Detroit,W,34-29,DeRozan,8,Poeltl,14,Aldridge,24
+03-03-2019,Oklahoma City,W,35-29,DeRozan,7,Aldridge,10,Aldridge,27

@@ -1,0 +1,21 @@
+﻿Quarter,Store,Products Sold,Target,Varience TO Target
+1,Manchester,440,475,35
+1,London,425,475,50
+1,Leeds,488,490,2
+1,York,499,490,-9
+1,Birmingham,477,475,-2
+2,Manchester,288,300,12
+2,London,324,325,1
+2,Leeds,331,325,-6
+2,York,329,300,-29
+2,Birmingham,346,325,-21
+3,Manchester,350,300,-50
+3,London,312,300,-12
+3,Leeds,279,300,21
+3,York,273,300,27
+3,Birmingham,348,300,-48
+4,Manchester,327,330,3
+4,London,422,400,-22
+4,Leeds,349,400,51
+4,York,340,330,-10
+4,Birmingham,404,400,-4
